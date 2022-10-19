@@ -1,8 +1,8 @@
-# Мониторинг Акций
+# Мониторинг Акций (Django/Vue.js)
 
 Находясь в директории проекта `traiding_project` запустить `docker-compose up`  
-Фронтенд доступен на `http://localhost:8080/`  
-Бекенд `http://localhost:8000/`
+Фронтенд (Vue.js) доступен на `http://localhost:8080/`  
+Бекенд (Django) `http://localhost:8000/`
 В проект добавлен selenoid необходимо предварительно скачать контейнеры с браузерами исполнив файл `prepare_browsers.bash`
 
 local.env (файл переменных окружения)  
