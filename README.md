@@ -5,8 +5,8 @@
 Бекенд (Django) `http://localhost:8000/`
 В проект добавлен selenoid необходимо предварительно скачать контейнеры с браузерами исполнив файл `prepare_browsers.bash`
 
-local.env (файл переменных окружения)  
 <pre><code>
+#local.env (файл переменных окружения)  
 DJANGO_SETTINGS_MODULE=trading.settings  
 DJANGO_WSGI=trading.wsgi  
 PYTHONUNBUFFERED=1  
